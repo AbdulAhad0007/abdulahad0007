@@ -83,4 +83,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulAhad0007&show_icons=true&locale=en&layout=compact" alt="abdulahad0007" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdulAhad0007&show_icons=true&locale=en" alt="abdulahad0007" /></p>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AbdulAhad0007" alt="GitHub Streak" /></a>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdulAhad0007" alt="GitHub Streak" />
+  </a>
+</p>
+
