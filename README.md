@@ -21,9 +21,6 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-    </a> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
     </a> 
@@ -38,8 +35,18 @@
     </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a> 
+    </a>
+    <a href="https://learn.microsoft.com/en-us/office/vba/api/overview/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vba/vba-original.svg" alt="vba" width="40" height="40"/>
+    </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+    </a>
+    <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/supabase/supabase/master/web/static/supabase-light.svg" alt="supabase" width="40" height="40"/>
+    </a>
 </p>
+
 
 <h3 align="left">Tools & Frameworks:</h3>
 <p align="left">
@@ -77,9 +84,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulAhad0007&show_icons=true&locale=en&layout=compact" alt="abdulahad0007" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdulAhad0007&show_icons=true&locale=en" alt="abdulahad0007" /></p>
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdulAhad0007"/>
-  </a>
-</p>
 
