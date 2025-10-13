@@ -37,15 +37,16 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     </a>
     <a href="https://learn.microsoft.com/en-us/office/vba/api/overview/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vba/vba-original.svg" alt="vba" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Visual_Basic_for_Applications_logo.svg" alt="vba" width="40" height="40"/>
     </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
     </a>
     <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/supabase/supabase/master/web/static/supabase-light.svg" alt="supabase" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/>
     </a>
 </p>
+
 
 
 <h3 align="left">Tools & Frameworks:</h3>
