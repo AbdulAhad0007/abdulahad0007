@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-<a href="https://abdulahadportfolio.vercel.app">
+<a href="https://abdulahadportfolio.vercel.app" target="_main">
   <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="www.linkedin.com/in/abdul-ahad-6954b0266">
@@ -32,9 +32,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=flat-square&color=6D28D9&logo=github" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&style=flat-square&label=STARS&color=8B5CF6&logo=github" alt="Stars"/>
+<img src="https://komarev.com/ghpvc/?username=abdulahad0007&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/abdulahad0007?label=FOLLOWERS&style=flat-square&color=6D28D9&logo=github" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/abdulahad0007?affiliations=OWNER&style=flat-square&label=STARS&color=8B5CF6&logo=github" alt="Stars"/>
 
 </div>
 
@@ -121,9 +121,9 @@ I approach development with a **product engineering mindset**: understand the pr
 ## Featured Projects
 
 <details>
-<summary><b>EduTrack — ERP Management System</b></summary>
+<summary><b>Skora — ERP Management System</b></summary>
 
-### EduTrack
+### Skora
 
 A cloud-based **ERP Management System** designed to centralize academic and administrative operations into a unified platform.
 
@@ -134,7 +134,6 @@ A cloud-based **ERP Management System** designed to centralize academic and admi
 | **Performance** | Responsive dashboards and centralized data workflows |
 | **Security** | Role-based access and authenticated user workflows |
 | **Impact** | Digitizes academic and administrative management |
-| **Repository** | [GitHub Repository](https://github.com/YOUR_GITHUB_USERNAME) |
 
 ### Engineering Scope
 
@@ -213,38 +212,6 @@ An AI-powered human-computer interaction platform focused on controlling and int
 - PC remote-control functionality
 - Web-based management dashboard
 - Supabase-backed application architecture
-
-</details>
-
-<details>
-<summary><b>NOVA — Neural Operations Virtual Assistant</b></summary>
-
-### NOVA
-
-A multimodal desktop AI assistant designed to combine **voice interaction, vision, document understanding, local AI and system automation** into a unified desktop experience.
-
-| Category | Details |
-|:---|:---|
-| **Stack** | Python, PyQt6, Gemini, Ollama, OpenCV, MediaPipe, SQLite, Supabase |
-| **Scale** | Multimodal desktop AI platform |
-| **Performance** | Real-time interaction-oriented architecture |
-| **Security** | Local AI processing and controlled system operations |
-| **Impact** | Intelligent desktop assistance and automation |
-| **Repository** | [GitHub Repository](https://github.com/YOUR_GITHUB_USERNAME) |
-
-### Engineering Scope
-
-- AI-powered desktop assistant
-- Real-time conversational interaction
-- Voice-based control
-- Screen and camera understanding
-- Local LLM integration through Ollama
-- Google Gemini integration
-- PDF and document processing
-- OCR workflows
-- Desktop application control
-- System automation
-- Intelligent task execution
 
 </details>
 
@@ -366,7 +333,7 @@ Focused on computer science fundamentals, software engineering and practical dev
 
 <div align="center">
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+<a href="https://leetcode.com/abdulahad0007/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="45"/>
 </a>
 
@@ -378,7 +345,7 @@ Focused on computer science fundamentals, software engineering and practical dev
 <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=111827" height="45"/>
 </a>
 
-<a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
+<a href="https://www.codechef.com/users/ahadabdul9976">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="45"/>
 </a>
 
@@ -390,17 +357,17 @@ Focused on computer science fundamentals, software engineering and practical dev
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/abdulahad0007">
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&icon_color=8B5CF6&text_color=D1D5DB&rank_icon=github"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/abdulahad0007">
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&text_color=D1D5DB&langs_count=8"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/abdulahad0007">
 <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D0B1A&ring=7C3AED&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=D1D5DB&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
 </a>
 
@@ -424,7 +391,7 @@ Focused on computer science fundamentals, software engineering and practical dev
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/abdulahad0007">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D0B1A&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="95%" alt="Contribution Activity Graph"/>
 </a>
 
@@ -436,7 +403,7 @@ Focused on computer science fundamentals, software engineering and practical dev
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/abdulahad0007/abdulahad0007/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -493,15 +460,15 @@ Current Focus:
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/abdul-ahad-6954b0266">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/abdulahad0007">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://abdulahadportfolio.vercel.app" target="_main">
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
