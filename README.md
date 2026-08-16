@@ -408,24 +408,6 @@ Focused on computer science fundamentals, software engineering and practical dev
 
 ---
 
-## Contribution Calendar
-
-<div align="center">
-
-<a href="https://github.com/abdulahad0007">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=abdulahad0007&theme=github-compact&hide_border=true&area=false&custom_title=Abdul%20Ahad%27s%20Contribution%20Activity"
-  width="95%"
-  alt="Abdul Ahad GitHub Contribution Calendar"
-/>
-
-</a>
-
-</div>
-
----
-
 ## Contribution Snake
 
 <div align="center">
