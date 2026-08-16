@@ -353,16 +353,18 @@ Focused on computer science fundamentals, software engineering and practical dev
 
 ---
 
+---
+
 ## GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/abdulahad0007">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=abdulahad0007&show_icons=true&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&icon_color=8B5CF6&text_color=D1D5DB&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=abdulahad0007&show_icons=true&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&icon_color=8B5CF6&text_color=D1D5DB&rank_icon=github" alt="GitHub Stats"/>
 </a>
 
 <a href="https://github.com/abdulahad0007">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahad0007&layout=compact&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&text_color=D1D5DB&langs_count=8"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahad0007&layout=compact&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&text_color=D1D5DB&langs_count=8" alt="Top Languages"/>
 </a>
 
 <br/><br/>
@@ -375,13 +377,22 @@ Focused on computer science fundamentals, software engineering and practical dev
 
 ---
 
-
-## Contribution Activity
+## GitHub Contributions
 
 <div align="center">
 
+### Contribution Calendar
+
 <a href="https://github.com/abdulahad0007">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulahad0007&bg_color=0D0B1A&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="95%" alt="Contribution Activity Graph"/>
+<img src="https://ghchart.rshah.org/7C3AED/abdulahad0007" alt="GitHub Contribution Calendar" width="95%"/>
+</a>
+
+<br/><br/>
+
+### Contribution Activity
+
+<a href="https://github.com/abdulahad0007">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulahad0007&bg_color=0D0B1A&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="95%" alt="GitHub Contribution Activity"/>
 </a>
 
 </div>
@@ -393,6 +404,20 @@ Focused on computer science fundamentals, software engineering and practical dev
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/abdulahad0007/abdulahad0007/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## Profile Statistics
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=abdulahad0007&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views"/>
+
+<img src="https://img.shields.io/github/followers/abdulahad0007?label=FOLLOWERS&style=for-the-badge&color=6D28D9&logo=github" alt="GitHub Followers"/>
+
+<img src="https://img.shields.io/github/stars/abdulahad0007?affiliations=OWNER&label=STARS&style=for-the-badge&color=8B5CF6&logo=github" alt="GitHub Stars"/>
 
 </div>
 
