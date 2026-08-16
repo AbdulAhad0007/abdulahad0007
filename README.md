@@ -2,29 +2,28 @@
 <div align="center">
 
 <a href="https://capsule-render.vercel.app/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=AHAD&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&color=0:0D0B1A,50:4C1D95,100:7C3AED" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=ABDUL%20AHAD&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&color=0:0D0B1A,50:4C1D95,100:7C3AED" width="100%"/>
 </a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Full+Stack+Software+Engineer;AI%2FML+%26+Product+Engineer;Building+Intelligent+Digital+Products;Designing+Scalable+Systems+%26+Experiences" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Engineer;AI+%26+Product+Engineer;React.js+%7C+Next.js+%7C+Node.js;Building+Scalable+Digital+Products;Turning+Ideas+Into+Production-Ready+Systems" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-7C3AED?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Final%20Year-AKTU-5B21B6?style=for-the-badge&logo=bookstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20Engineering-7C3AED?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/AKTU-2023%20%E2%80%94%202027-5B21B6?style=for-the-badge&logo=bookstack&logoColor=white"/>
 <img src="https://img.shields.io/badge/India-111827?style=for-the-badge&logo=googlemaps&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/Open%20To-Opportunities-2563EB?style=for-the-badge&logo=handshake&logoColor=white"/>
 
 <br/><br/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="YOUR_PORTFOLIO_URL">
   <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<a href="YOUR_LINKEDIN_URL">
   <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:ahadabdul9976@gmail.com">
   <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
@@ -43,24 +42,28 @@
 
 ## About
 
-I am a **Full Stack Software Engineer and AI-focused Product Engineer** passionate about designing, developing, and shipping intelligent software products that combine strong engineering foundations with modern user experiences.
+I’m **Abdul Ahad**, a **Full Stack Developer and AI-focused Product Engineer** with hands-on experience building responsive web applications, ERP systems, business management platforms, AI-powered applications, and interactive digital experiences.
 
-My work spans **full-stack application development, AI/ML integration, desktop software, mobile applications, cloud-connected systems, automation, and product engineering**. I enjoy taking an idea from architecture and database design to polished interfaces, APIs, deployment, and continuous iteration.
+My core engineering stack revolves around **React.js, Next.js, Node.js, PostgreSQL, Supabase, REST APIs, authentication systems, and cloud databases**. I enjoy working across the complete product lifecycle — from designing interfaces and APIs to architecting databases, integrating third-party services, deploying applications, and continuously improving the user experience.
 
-I approach software engineering with a product mindset: **understand the problem → design the system → build the experience → measure the outcome → iterate**. My goal is not simply to write code, but to build reliable software that solves meaningful problems at scale.
+I’m particularly interested in the intersection of **software engineering and artificial intelligence**, with practical experience integrating **Large Language Models, Google Gemini API, OpenAI API, prompt engineering, and AI-assisted workflows** into modern applications.
+
+I approach development with a **product engineering mindset**: understand the problem, design the architecture, build the experience, integrate the intelligence, and ship a reliable solution.
 
 ### Engineering Focus
 
-- **Software Engineering** — scalable architecture, clean code, APIs, system design
-- **Full Stack Development** — React, Next.js, Node.js, databases and cloud services
-- **AI / ML Engineering** — LLM applications, AI assistants, computer vision and intelligent automation
-- **Product Engineering** — converting ideas into production-ready digital products
-- **Desktop & Mobile Engineering** — Python desktop systems, React Native and companion applications
-- **Developer Experience** — automation, tooling, CI/CD and maintainable engineering workflows
+- **Full Stack Development** — React.js, Next.js, Node.js and REST APIs
+- **Frontend Engineering** — responsive interfaces, reusable components and modern UI systems
+- **Backend Engineering** — APIs, authentication, authorization and integrations
+- **Database Engineering** — PostgreSQL, Supabase and SQL
+- **AI Engineering** — LLM integrations, Gemini API, OpenAI API and prompt engineering
+- **Product Engineering** — ERP, business platforms and custom digital products
+- **Cloud & Deployment** — Vercel, Firebase and Supabase
+- **Developer Tooling** — Git, GitHub, Postman and VS Code
 
 ### Open To
 
-**Software Engineering · Full Stack Development · AI Engineering · Product Engineering · Open Source · Research & Development · Technical Collaborations**
+**Full Stack Engineering · Software Engineering · AI Engineering · Product Engineering · Open Source · Technical Collaborations**
 
 ---
 
@@ -69,26 +72,35 @@ I approach software engineering with a product mindset: **understand the problem
 ### Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,python,java,cpp,html,css,sql,bash&theme=dark" />
 </p>
 
 ### Frontend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,threejs,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&theme=dark" />
 </p>
 
 ### Backend & Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,supabase,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,firebase&theme=dark" />
 </p>
 
-### Cloud, DevOps & Tooling
+### AI, Cloud & Tooling
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,googlecloud,linux,windows,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=openai,git,github,postman,vercel,vscode&theme=dark" />
 </p>
+
+<br/>
+
+**Core Technologies**
+
+`React.js` `Next.js` `Node.js` `Express.js` `PostgreSQL` `Supabase` `SQL`  
+`JavaScript` `HTML5` `CSS3` `Tailwind CSS` `REST APIs`  
+`OpenAI API` `Google Gemini API` `Prompt Engineering`  
+`Git` `GitHub` `Postman` `VS Code` `Firebase` `Vercel`
 
 ---
 
@@ -96,79 +108,78 @@ I approach software engineering with a product mindset: **understand the problem
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
-| **Generative AI** | Advanced | LLM-powered applications, AI assistants, prompt engineering and intelligent workflows |
-| **LLM Integration** | Advanced | Cloud and local model integration, inference workflows and AI application architecture |
-| **Computer Vision** | Intermediate–Advanced | OpenCV, MediaPipe, gesture recognition, face-based interaction and visual processing |
-| **Multimodal AI** | Advanced | Combining text, voice, vision and system context into unified AI experiences |
-| **AI Automation** | Advanced | Agent-style workflows, desktop automation and intelligent task execution |
-| **OCR / Document AI** | Intermediate | Document processing, OCR pipelines and structured information extraction |
-| **AI Product Engineering** | Advanced | Building practical AI features into complete user-facing products |
-| **Local AI** | Intermediate–Advanced | Ollama, locally hosted models and privacy-oriented AI workflows |
+| **Large Language Models** | Advanced | Practical integration of LLM capabilities into user-facing applications |
+| **Google Gemini API** | Advanced | Building AI-powered features and intelligent application workflows |
+| **OpenAI API** | Intermediate–Advanced | Integrating generative AI capabilities into software products |
+| **Prompt Engineering** | Advanced | Designing prompts and AI workflows for application-specific tasks |
+| **AI Applications** | Advanced | Developing practical AI-powered products rather than isolated model experiments |
+| **AI Automation** | Intermediate–Advanced | Using AI to enhance workflows and automate application-level tasks |
+| **Product AI** | Advanced | Embedding intelligent functionality into complete web and business platforms |
 
 ---
 
 ## Featured Projects
 
 <details>
-<summary><b>MYRON OS — Intelligent Operating System</b></summary>
+<summary><b>EduTrack — ERP Management System</b></summary>
 
-### MYRON OS
+### EduTrack
 
-An ambitious operating-system engineering project focused on creating a modern computing environment that combines a custom OS foundation with an intelligent interaction layer.
+A cloud-based **ERP Management System** designed to centralize academic and administrative operations into a unified platform.
 
 | Category | Details |
 |:---|:---|
-| **Stack** | C / C++, OS Internals, Kernel Engineering, System Programming, AI |
-| **Scale** | Operating-system level architecture |
-| **Performance** | Designed around efficient system resources and low-level control |
-| **Security** | Isolation, permissions, secure system architecture |
-| **Impact** | Long-term exploration of a next-generation personal computing platform |
+| **Stack** | Next.js, Tailwind CSS, PostgreSQL, Supabase, Git |
+| **Scale** | Cloud-based multi-role ERP platform |
+| **Performance** | Responsive dashboards and centralized data workflows |
+| **Security** | Role-based access and authenticated user workflows |
+| **Impact** | Digitizes academic and administrative management |
 | **Repository** | [GitHub Repository](https://github.com/YOUR_GITHUB_USERNAME) |
 
-**Engineering Scope**
+### Engineering Scope
 
-- Custom operating-system architecture
-- Kernel and hardware abstraction concepts
-- Process and memory management
-- Device and peripheral support
-- Networking architecture
-- Filesystem architecture
-- Desktop environment
-- Application ecosystem
-- AI-powered system interaction
-- Cross-hardware installation strategy
+- Designed a centralized ERP architecture for academic and administrative operations
+- Built role-based dashboards for **students, teachers and administrators**
+- Implemented attendance management
+- Implemented grade and academic record workflows
+- Built fee management functionality
+- Developed reporting interfaces
+- Integrated PostgreSQL with Supabase
+- Designed responsive interfaces using Next.js and Tailwind CSS
+- Managed development workflow using Git
 
 </details>
 
 <details>
-<summary><b>NOVA — Neural Operations Virtual Assistant</b></summary>
+<summary><b>Fitora — Gym Management System & Mobile Application</b></summary>
 
-### NOVA
+### Fitora
 
-A multimodal AI desktop assistant designed to combine conversational intelligence, system control, vision, voice interaction, document understanding and automation into a unified desktop experience.
+A complete **gym management ecosystem** combining a web management platform with a companion mobile application for gym members.
 
 | Category | Details |
 |:---|:---|
-| **Stack** | Python, PyQt6, Gemini, Ollama, OpenCV, MediaPipe, SQLite, Supabase |
-| **Scale** | Multimodal desktop AI platform |
-| **Performance** | Real-time voice and interaction-oriented architecture |
-| **Security** | Local processing capabilities and controlled system access |
-| **Impact** | Intelligent desktop automation and human-computer interaction |
+| **Stack** | Next.js, React Native, PostgreSQL, Supabase, AI-Assisted Development |
+| **Scale** | Web + mobile management ecosystem |
+| **Performance** | Responsive management dashboards and mobile workflows |
+| **Security** | Authenticated application and database workflows |
+| **Impact** | Digitizes gym memberships, attendance, payments and member fitness tracking |
 | **Repository** | [GitHub Repository](https://github.com/YOUR_GITHUB_USERNAME) |
 
-**Engineering Scope**
+### Engineering Scope
 
-- Real-time AI conversations
-- Voice interaction
-- Vision and screen understanding
-- Camera-based interaction
-- Document and PDF processing
-- OCR workflows
-- Local LLM integration
-- Desktop automation
-- Application launching
-- System controls
-- Intelligent task execution
+- Built gym membership management
+- Implemented attendance tracking
+- Developed subscription workflows
+- Added trainer management
+- Integrated payment-related workflows
+- Built reporting functionality
+- Developed companion React Native mobile application
+- Enabled members to monitor workout plans
+- Added attendance history
+- Added fitness progress tracking
+- Integrated PostgreSQL and Supabase
+- Used AI-assisted development workflows
 
 </details>
 
@@ -177,66 +188,63 @@ A multimodal AI desktop assistant designed to combine conversational intelligenc
 
 ### GESTRO
 
-An AI-powered interaction suite designed to make computers controllable through **gestures, voice, facial authentication and companion mobile devices**.
+An AI-powered human-computer interaction platform focused on controlling and interacting with computers through **gestures, voice, vision, facial authentication and companion devices**.
 
 | Category | Details |
 |:---|:---|
 | **Stack** | Python, PyQt6, OpenCV, MediaPipe, React, Next.js, Tailwind, Supabase |
 | **Scale** | Desktop + Web + Android ecosystem |
-| **Performance** | Real-time computer-vision interaction |
-| **Security** | Facial authentication and controlled device access |
-| **Impact** | Alternative human-computer interaction through natural input |
+| **Performance** | Real-time interaction and computer-vision workflows |
+| **Security** | Facial authentication and controlled system access |
+| **Impact** | Explores natural and multimodal human-computer interaction |
 | **Repository** | [GitHub Repository](https://github.com/YOUR_GITHUB_USERNAME) |
 
-**Engineering Scope**
+### Engineering Scope
 
-- Gesture recognition
-- Air mouse
-- Face authentication
-- Voice commands
+- Gesture-based computer control
+- Computer vision with OpenCV and MediaPipe
+- Facial authentication
+- Voice command workflows
 - Desktop automation
-- Hardware discovery
+- Hardware and system discovery
 - Application discovery
 - Gesture-to-action mapping
-- Android companion controller
-- PC remote control
-- Screen mirroring concepts
+- Android companion control
+- PC remote-control functionality
 - Web-based management dashboard
-- Automated application releases
+- Supabase-backed application architecture
 
 </details>
 
 <details>
-<summary><b>SKORA ERP — Education Management Platform</b></summary>
+<summary><b>NOVA — Neural Operations Virtual Assistant</b></summary>
 
-### SKORA ERP
+### NOVA
 
-A multi-role education management platform designed to centralize school operations across administrators, teachers, students and parents.
+A multimodal desktop AI assistant designed to combine **voice interaction, vision, document understanding, local AI and system automation** into a unified desktop experience.
 
 | Category | Details |
 |:---|:---|
-| **Stack** | Next.js, React, Node.js, Supabase, PostgreSQL, Tailwind CSS |
-| **Scale** | Multi-role SaaS education platform |
-| **Performance** | Optimized dashboard and data-driven workflows |
-| **Security** | Role-based access and authenticated workflows |
-| **Impact** | Digitalization of academic and administrative operations |
+| **Stack** | Python, PyQt6, Gemini, Ollama, OpenCV, MediaPipe, SQLite, Supabase |
+| **Scale** | Multimodal desktop AI platform |
+| **Performance** | Real-time interaction-oriented architecture |
+| **Security** | Local AI processing and controlled system operations |
+| **Impact** | Intelligent desktop assistance and automation |
 | **Repository** | [GitHub Repository](https://github.com/YOUR_GITHUB_USERNAME) |
 
-**Engineering Scope**
+### Engineering Scope
 
-- Multi-role authentication
-- Student management
-- Teacher management
-- Parent portals
-- Attendance
-- Exams
-- Fees
-- Salary and payroll
-- Homework
-- Timetables
-- Reports
-- Analytics dashboards
-- Administrative controls
+- AI-powered desktop assistant
+- Real-time conversational interaction
+- Voice-based control
+- Screen and camera understanding
+- Local LLM integration through Ollama
+- Google Gemini integration
+- PDF and document processing
+- OCR workflows
+- Desktop application control
+- System automation
+- Intelligent task execution
 
 </details>
 
@@ -245,119 +253,112 @@ A multi-role education management platform designed to centralize school operati
 
 ### SPACELY
 
-A marketplace concept that enables people and businesses to list unused or available spaces while allowing users to discover nearby spaces based on location, requirements and availability.
+A location-aware marketplace concept that allows people and businesses to **list unused spaces** and enables users to discover suitable nearby spaces based on their requirements.
 
 | Category | Details |
 |:---|:---|
-| **Stack** | React / Next.js, Node.js, PostgreSQL, Maps & Location APIs |
-| **Scale** | Location-aware marketplace platform |
-| **Performance** | Proximity-based discovery and optimized search |
-| **Security** | Authentication, listing ownership and transactional workflows |
-| **Impact** | Converts unused physical space into a discoverable marketplace |
+| **Stack** | Next.js, React, Node.js, PostgreSQL, Location APIs |
+| **Scale** | Location-aware marketplace |
+| **Performance** | Proximity-based search and discovery |
+| **Security** | Authentication and listing ownership |
+| **Impact** | Converts unused physical space into a discoverable digital marketplace |
 | **Repository** | [GitHub Repository](https://github.com/YOUR_GITHUB_USERNAME) |
 
-**Engineering Scope**
+### Engineering Scope
 
-- Space listing
-- Geolocation-based discovery
-- Nearby recommendations
+- Space listing system
+- Location-based discovery
+- Nearby-space recommendations
 - Search and filtering
 - Availability management
 - User profiles
-- Booking workflows
 - Listing management
-- Marketplace architecture
+- Booking architecture
+- Marketplace-oriented product design
 
 </details>
 
 ---
 
-## Experience
+## Professional Experience
 
-### Full Stack Software Engineer & Product Developer
-**Independent / Product Engineering**  
-**2024 — Present**
+### Full Stack Web Developer Intern
 
-Building full-stack applications, AI systems and software products across web, desktop and mobile platforms.
+**DevforDevs · Remote**  
+**December 2025 — May 2026**
 
-**Scope of Work**
+Worked as a Full Stack Web Developer developing and maintaining modern web applications and business-oriented software platforms.
 
-- Architect and develop full-stack applications from concept to deployment
-- Build responsive interfaces using React and Next.js
-- Develop backend APIs and database architectures
-- Integrate AI models into production-oriented applications
-- Build desktop applications using Python and PyQt
-- Develop mobile companion applications using React Native
-- Design authentication and role-based access systems
-- Implement cloud-connected application architectures
-- Develop automation and computer-vision workflows
-- Debug, optimize and maintain production software
+### Scope of Work
 
-**Skills**
-
-`React` `Next.js` `Node.js` `Python` `TypeScript` `Supabase` `PostgreSQL` `AI/ML` `OpenCV` `Git` `Cloud`
-
----
-
-### Software Developer & Technical Builder
-**Independent Projects**  
-**2023 — Present**
-
-Developing experimental and production-oriented systems across software engineering, AI, automation and product development.
-
-**Scope of Work**
-
-- Full-stack product development
-- AI assistant engineering
-- Desktop application development
-- Mobile application development
-- Database architecture
-- API integration
-- UI/UX implementation
-- System automation
-- Cloud deployment
-- Technical research and prototyping
+- Developed and maintained full-stack web applications
+- Built applications using **React.js, Next.js, Node.js, PostgreSQL and Supabase**
+- Developed ERP systems
+- Built business management platforms
+- Developed AI-powered applications
+- Created custom web solutions for clients
+- Worked across frontend, backend and database layers
+- Integrated APIs and authentication systems
+- Collaborated on client-focused software solutions
 
 **Skills**
 
-`JavaScript` `TypeScript` `Python` `React` `Next.js` `Node.js` `SQL` `AI` `Computer Vision` `Cloud`
+`React.js` `Next.js` `Node.js` `PostgreSQL` `Supabase` `REST APIs` `Authentication` `Git`
 
 ---
 
-## Achievements
+### E-Commerce Website Surveyor
+
+**TELUS Digital · USA · Remote**  
+**July 2025 — December 2025**
+
+Worked on structured evaluation and quality assessment of e-commerce websites and digital shopping experiences.
+
+### Scope of Work
+
+- Evaluated e-commerce websites for usability
+- Analyzed search relevance
+- Reviewed content quality
+- Assessed customer experience
+- Evaluated navigation effectiveness
+- Performed structured quality assessments
+- Reviewed digital platforms to identify usability and experience issues
+- Contributed to improving online shopping experiences
+
+**Skills**
+
+`Web Evaluation` `Usability Analysis` `Search Relevance` `Content Quality` `UX Evaluation` `Quality Assurance`
+
+---
+
+## Engineering Highlights
 
 <div align="center">
 
-| Recognition | Details |
+| Area | Highlight |
 |:---|:---|
-| **Product Engineering** | Designed and developed multiple end-to-end software products across web, desktop and mobile |
-| **AI Engineering** | Built multimodal AI concepts combining language, voice, vision and automation |
-| **Full Stack Development** | Experienced across frontend, backend, databases, authentication and deployment |
-| **Computer Vision** | Implemented gesture, face and camera-driven interaction systems |
-| **Open Source Mindset** | Focused on reusable engineering patterns, tooling and developer-oriented solutions |
-| **Technical Exploration** | Exploring operating systems, AI agents, HCI and next-generation computing |
+| **Full Stack Engineering** | Built responsive applications using React.js, Next.js, Node.js, PostgreSQL and Supabase |
+| **ERP Development** | Developed centralized academic and business management platforms |
+| **AI Engineering** | Integrated LLMs, Google Gemini API and OpenAI API into applications |
+| **Product Development** | Built complete products spanning web, mobile, backend and database layers |
+| **Backend Engineering** | Developed REST APIs, authentication systems and application integrations |
+| **Database Engineering** | Hands-on experience with PostgreSQL, Supabase and SQL |
+| **Cloud Development** | Experience with Vercel, Firebase and Supabase |
+| **Client Solutions** | Developed custom web solutions for real-world client requirements |
+| **E-Commerce Evaluation** | Assessed usability, relevance, content quality and navigation across digital platforms |
 
 </div>
 
 ---
 
-## Certifications
+## Education
 
-### AWS
+### Bachelor of Technology — Computer Science Engineering
 
-<img src="https://img.shields.io/badge/AWS-Cloud%20Certification-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+**Sunderdeep Engineering College · AKTU**  
+**August 2023 — September 2027**
 
-### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Technology%20Certification-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Certified-4C1D95?style=for-the-badge&logo=academia&logoColor=white"/>
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Technical%20Certification-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+Focused on computer science fundamentals, software engineering and practical development through academic and independent projects.
 
 ---
 
@@ -445,36 +446,41 @@ Developing experimental and production-oriented systems across software engineer
 
 ```yaml
 Current Focus:
+
   Learning:
+    - Advanced Full Stack Architecture
     - System Design
-    - Advanced AI Engineering
-    - Distributed Systems
-    - Operating System Architecture
+    - Artificial Intelligence
+    - Large Language Models
     - Cloud Architecture
+    - Scalable Backend Systems
 
   Building:
-    - AI-powered desktop systems
-    - Full-stack SaaS products
+    - AI-powered applications
+    - Full-stack SaaS platforms
+    - ERP and business management systems
+    - Intelligent desktop applications
     - Human-computer interaction systems
-    - Intelligent automation platforms
-    - Next-generation computing concepts
+    - Mobile companion applications
 
   Exploring:
     - Multimodal AI
-    - Local LLMs
-    - AI Agents
+    - LLM Applications
+    - AI Automation
     - Computer Vision
-    - Operating Systems
+    - Local AI
     - Developer Tools
     - Product Engineering
+    - Next-generation computing
 
   Open To:
-    - Software Engineering
     - Full Stack Engineering
+    - Software Engineering
     - AI Engineering
     - Product Engineering
     - Open Source
     - Technical Collaborations
+    - Innovative Software Products
 ````
 
 ---
@@ -483,11 +489,11 @@ Current Focus:
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:ahadabdul9976@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -495,7 +501,7 @@ Current Focus:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="YOUR_PORTFOLIO_URL">
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
@@ -516,3 +522,4 @@ Current Focus:
 **“Build with purpose. Engineer with precision. Ship with impact.”**
 
 </div>
+
