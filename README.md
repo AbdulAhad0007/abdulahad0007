@@ -375,17 +375,6 @@ Focused on computer science fundamentals, software engineering and practical dev
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=abdulahad0007&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
-</a>
-
-</div>
-
----
 
 ## Contribution Activity
 
