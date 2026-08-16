@@ -17,16 +17,16 @@
 
 <br/><br/>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://abdulahadportfolio.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/abdul-ahad-6954b0266">
   <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:ahadabdul9976@gmail.com">
   <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/abdulahad0007">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=A78BFA"/>
 </a>
 
