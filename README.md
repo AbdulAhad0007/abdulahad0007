@@ -163,7 +163,7 @@ A complete **gym management ecosystem** combining a web management platform with
 | **Performance** | Responsive management dashboards and mobile workflows |
 | **Security** | Authenticated application and database workflows |
 | **Impact** | Digitizes gym memberships, attendance, payments and member fitness tracking |
-| **Repository** | [GitHub Repository](https://github.com/YOUR_GITHUB_USERNAME) |
+| **Repository** | [GitHub Repository](https://github.com/abdulahad0007) |
 
 ### Engineering Scope
 
@@ -196,7 +196,7 @@ An AI-powered human-computer interaction platform focused on controlling and int
 | **Performance** | Real-time interaction and computer-vision workflows |
 | **Security** | Facial authentication and controlled system access |
 | **Impact** | Explores natural and multimodal human-computer interaction |
-| **Repository** | [GitHub Repository](https://github.com/YOUR_GITHUB_USERNAME) |
+| **Repository** | [GitHub Repository](https://github.com/abdulahad0007) |
 
 ### Engineering Scope
 
@@ -229,7 +229,7 @@ A location-aware marketplace concept that allows people and businesses to **list
 | **Performance** | Proximity-based search and discovery |
 | **Security** | Authentication and listing ownership |
 | **Impact** | Converts unused physical space into a discoverable digital marketplace |
-| **Repository** | [GitHub Repository](https://github.com/YOUR_GITHUB_USERNAME) |
+| **Repository** | [GitHub Repository](https://github.com/abdulahad0007) |
 
 ### Engineering Scope
 
@@ -358,17 +358,17 @@ Focused on computer science fundamentals, software engineering and practical dev
 <div align="center">
 
 <a href="https://github.com/abdulahad0007">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&icon_color=8B5CF6&text_color=D1D5DB&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=abdulahad0007&show_icons=true&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&icon_color=8B5CF6&text_color=D1D5DB&rank_icon=github"/>
 </a>
 
 <a href="https://github.com/abdulahad0007">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&text_color=D1D5DB&langs_count=8"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahad0007&layout=compact&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&text_color=D1D5DB&langs_count=8"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/abdulahad0007">
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D0B1A&ring=7C3AED&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=D1D5DB&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=abdulahad0007&hide_border=true&background=0D0B1A&ring=7C3AED&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=D1D5DB&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
 </a>
 
 </div>
@@ -380,7 +380,7 @@ Focused on computer science fundamentals, software engineering and practical dev
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=abdulahad0007&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
 </a>
 
 </div>
@@ -392,7 +392,7 @@ Focused on computer science fundamentals, software engineering and practical dev
 <div align="center">
 
 <a href="https://github.com/abdulahad0007">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D0B1A&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="95%" alt="Contribution Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulahad0007&bg_color=0D0B1A&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="95%" alt="Contribution Activity Graph"/>
 </a>
 
 </div>
